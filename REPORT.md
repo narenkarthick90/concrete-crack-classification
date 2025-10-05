@@ -65,8 +65,8 @@ The solution is optimized for **accuracy, speed, and compactness**, making it de
 
 ## 6. Inference and Edge Benchmark
 
-| Metric | Result | Requirement | Status |
-|---------|---------|--------------|------|
+| Metric | Result | Requirement |
+|---------|---------|--------------|
 | **Average inference time (ONNX)** | 7.63 ms / image | ≤ 50 ms |
 | **FPS (frames per second)** | 131 FPS | ≥ 20 FPS |
 | **Memory usage** | 105 MB | ≤ 250 MB |
