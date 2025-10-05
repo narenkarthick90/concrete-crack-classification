@@ -15,19 +15,6 @@ The solution is optimized for **accuracy, speed, and compactness**, making it de
 - **Source:** Kaggle – *Concrete Crack Images for Classification*  
   (manually adapted for detection by labeling bounding boxes for cracked regions)
 - **Classes:** `1` → `crack`
-- **Structure:**
-data/
-├── raw/
-│ ├── images/
-│ │ ├── train/
-│ │ ├── val/
-│ │ └── test/
-│ └── labels/
-│ ├── train/
-│ ├── val/
-│ └── test/
-└── crack_dataset.yaml
-
 - **Split:**  
 - Train: 70%  
 - Validation: 15%  
