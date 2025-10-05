@@ -115,3 +115,28 @@ The solution is optimized for **accuracy, speed, and compactness**, making it de
 The developed YOLOv8-based detector successfully identifies cracks in concrete structures with high precision and real-time performance.  
 It fully satisfies the accuracy (mAP ≥ 0.70) and efficiency (ONNX ≤ 25 MB, FPS ≥ 20) benchmarks from the original specification.  
 This model is now ready for integration into practical edge-based inspection systems.
+
+---
+
+## 11. Statement of Originality
+
+I hereby declare that this project titled "Concrete Crack Detection using YOLOv8" is my own original work.  
+All code, model training, evaluations have been developed independently for the purpose of this task.  
+External resources, such as pre-trained YOLOv8 weights and open-source libraries (PyTorch, ONNX Runtime, Ultralytics), were used solely for implementation support and have been properly acknowledged.
+
+No portion of this work has been copied or submitted elsewhere.  
+All experiments, results, and analyses presented in this report are genuine and were conducted by me.
+
+**Submitted by:**  
+**Name:** Naren Karthick Ambika Kesavan
+**Institution:** *NIT, Trichy*
+
+---
+
+## 12. References & Acknowledgments
+
+- **YOLOv8** by Ultralytics – for the object detection architecture and pretrained weights.  
+- **ONNX Runtime** – for efficient model export and inference benchmarking.  
+- **Kaggle Concrete Crack Dataset** – for providing labeled images for model training.  
+- **ChatGPT (OpenAI GPT-5, 2025)** – was used as a learning and coding assistant for code structuring, documentation refinement and explanation refinement. All implementation decisions and final outputs were independently verified and executed by me.
+
