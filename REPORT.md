@@ -105,7 +105,7 @@ The solution is optimized for **accuracy, speed, and compactness**, making it de
 
 - Integrate model into a **video stream pipeline** for live detection.  
 - Fine-tune on additional datasets (e.g., bridge or pavement cracks).  
-- Apply quantization (INT8) for further model size reduction (<10 MB).  
+- Apply quantization (INT8) for further model size reduction (<10 MB) --- (ChatGPT Ideation)
 - Add confidence-based alerting system for on-site crack monitoring.
 
 ---
