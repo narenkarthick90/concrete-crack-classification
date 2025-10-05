@@ -1,0 +1,35 @@
+Epoch 1/40
+Train Loss: 0.0281 | Acc: 0.9919
+Val Loss: 0.0074 | Acc: 0.9980
+Improved! Model saved (val acc = 0.9980)
+Epoch 2/40
+Train Loss: 0.0156 | Acc: 0.9951
+Val Loss: 0.0058 | Acc: 0.9987
+Improved! Model saved (val acc = 0.9987)
+Epoch 3/40
+Train Loss: 0.0152 | Acc: 0.9958
+Val Loss: 0.0045 | Acc: 0.9990
+Improved! Model saved (val acc = 0.9990)
+Epoch 4/40
+Train Loss: 0.0117 | Acc: 0.9968
+Val Loss: 0.0051 | Acc: 0.9985
+No improvement for 1/5 epochs
+Epoch 5/40
+Train Loss: 0.0089 | Acc: 0.9971
+Val Loss: 0.0073 | Acc: 0.9982
+No improvement for 2/5 epochs
+Epoch 6/40
+Train Loss: 0.0128 | Acc: 0.9962
+Val Loss: 0.0035 | Acc: 0.9990
+No improvement for 3/5 epochs
+Epoch 7/40
+Train Loss: 0.0098 | Acc: 0.9973
+Val Loss: 0.0583 | Acc: 0.9918
+No improvement for 4/5 epochs
+Epoch 8/40
+Train Loss: 0.0083 | Acc: 0.9974
+Val Loss: 0.0045 | Acc: 0.9988
+No improvement for 5/5 epochs
+Early stopping triggered. Training stopped.
+Training curves saved at: results\training_curves.png
+Training complete. Best Val Accuracy: 0.9990

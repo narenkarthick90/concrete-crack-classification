@@ -1,0 +1,31 @@
+Epoch 1/10
+train Acc: 0.9914
+val Acc: 0.9987
+Epoch 2/10
+train Acc: 0.9951
+val Acc: 0.9963
+Epoch 3/10
+train Acc: 0.9952
+val Acc: 0.9980
+Epoch 4/10
+train Acc: 0.9965
+val Acc: 0.9988
+Epoch 5/10
+train Acc: 0.9965
+val Acc: 0.9983
+Epoch 6/10
+train Acc: 0.9969
+val Acc: 0.9987
+Epoch 7/10
+train Acc: 0.9977
+val Acc: 0.9987
+Epoch 8/10
+train Acc: 0.9976
+val Acc: 0.9992
+Epoch 9/10
+train Acc: 0.9974
+val Acc: 0.9985
+Epoch 10/10
+train Acc: 0.9972
+val Acc: 0.9988
+Training complete. Best Val Acc: 0.9991666666666666

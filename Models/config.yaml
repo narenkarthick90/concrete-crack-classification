@@ -1,0 +1,12 @@
+data_dir: data/processed/
+classes: ["Positive", "Negative"]
+
+# Training settings
+imgsz: 224
+batch: 32
+epochs: 40
+lr: 0.001
+
+# Model
+arch: resnet18
+pretrained: true

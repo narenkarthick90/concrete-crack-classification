@@ -1,0 +1,10 @@
+torch>=2.0.0
+torchvision
+ultralytics>=8.0.0
+opencv-python
+albumentations
+pycocotools
+onnx
+onnxruntime
+matplotlib
+pyYAML
