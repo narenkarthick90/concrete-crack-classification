@@ -1,4 +1,4 @@
-# ONNX Benchmark Results 📉
+# ONNX Benchmark Results
 
 This report summarizes the performance benchmark of an ONNX model, as executed by the `benchmark_onnx.py` script.
 
