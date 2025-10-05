@@ -1,4 +1,4 @@
-# 🧱 Concrete Crack Detection – Project Report
+# Concrete Crack Detection – Project Report
 
 ## 1. Problem Overview
 
